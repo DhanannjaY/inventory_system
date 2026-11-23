@@ -2,6 +2,11 @@
 
 A production-style mini ERP system built with Django REST Framework and vanilla HTML/JS frontend. Designed for small to medium businesses to track stock, record sales & purchases, and monitor profit/loss in real time.
 
+## 📌 Version
+**Current release:** v1.0.0 (MVP)
+**Status:** Active development
+**Last updated:** November 2026
+
 ---
 
 ## 🚀 Features
